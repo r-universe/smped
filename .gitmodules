@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "extraChIPs"]
 	path = extraChIPs
 	url = https://github.com/smped/extrachips
-	shallow = true
-	registered = true
 [submodule "ngsReports"]
 	path = ngsReports
 	url = https://github.com/smped/ngsreports
-	shallow = true
-	registered = true
