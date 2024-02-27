@@ -8,3 +8,6 @@
 [submodule "ngsReports"]
 	path = ngsReports
 	url = https://github.com/smped/ngsreports
+[submodule "transmogR"]
+	path = transmogR
+	url = https://github.com/smped/transmogr
